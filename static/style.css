@@ -3,6 +3,14 @@ body {
     display: flex;
 }
 
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    color:aqua;
+}
 .line {
     /* color: aqua; */
     width: 25vh;
