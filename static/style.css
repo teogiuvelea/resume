@@ -1,0 +1,12 @@
+body {
+    background-color: #5a626e;
+    display: flex;
+}
+
+.line {
+    /* color: aqua; */
+    width: 25vh;
+    border-top: 2px solid aqua;
+}
+
+
