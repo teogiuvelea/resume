@@ -1,20 +1,15 @@
-body {
+.bg-container {
     background-color: #5a626e;
-    display: flex;
 }
 
-a {
-    text-decoration: none;
-    color: #fff;
-}
-
-a:hover {
-    color:aqua;
-}
 .line {
     /* color: aqua; */
     width: 25vh;
     border-top: 2px solid aqua;
+}
+
+.more {
+    max-height: 50vh;
 }
 
 
