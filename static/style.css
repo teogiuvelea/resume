@@ -8,8 +8,9 @@
     border-top: 2px solid aqua;
 }
 
-.more {
-    max-height: 50vh;
+.resize {
+    width: 50%;
+    /* max-height: 50vh; */
 }
 
 
