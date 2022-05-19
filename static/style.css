@@ -3,14 +3,13 @@
 }
 
 .line {
-    /* color: aqua; */
     width: 25vh;
     border-top: 2px solid aqua;
+    padding-bottom: 2vh;
 }
 
 .resize {
     width: 50%;
-    /* max-height: 50vh; */
 }
 
 
