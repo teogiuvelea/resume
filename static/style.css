@@ -12,4 +12,18 @@
     width: 50%;
 }
 
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    color: aqua;
+}
+
+.btn-st {
+    border: 1px solid aqua; 
+    border-radius: 5px;
+}
+
 
