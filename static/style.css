@@ -17,15 +17,12 @@ a {
     color: #fff;
     border: 1px solid aqua;
     border-radius: 5px;
+    padding: 7px;
 }
 
 a:hover {
     color: aqua;
 }
 
-/* .btn-st {
-    border: 1px solid aqua; 
-    border-radius: 5px;
-} */
 
 
